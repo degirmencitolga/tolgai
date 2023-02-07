@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RS1zhUNMPsv+T2K5/RtIvk7xDYAixwgWyWNDGZ0qS1C8V3FDMrCe5AfP1hSq6AWUoDUILLo8WTSpnaqR9bVPDg==",
+  "success": true,
+  "projectFilePath": "/Users/tolgadegirmenci/Desktop/TheFinalProject/MySolution/src/MyProject/MyProject.fsproj",
+  "expectedPackageFiles": [
+    "/Users/tolgadegirmenci/.nuget/packages/fsharp.core/7.0.0/fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
